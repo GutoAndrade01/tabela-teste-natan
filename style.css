@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-size: 14pt;
+    font-size: 12pt;
     font-family: 'Calibri', sans-serif; 
 }
 
@@ -20,7 +20,7 @@ body{
 }
 
 .tabela{
-    width: 120vh;
+    width: 74vw;
     display: block;
     background-color: white;
     box-shadow: 0px 0px 0px rgb(253, 244, 244);
@@ -31,13 +31,13 @@ body{
 
 .tabela th,
 .tabela td {
-    width: 120vh;
+    width: 100vw;
     padding: 8px;
     text-align: center;
 }
 
 .tabela thead{
-    width: 110vh;
+    width: 100vw;
     background-color: black;
 }
 
